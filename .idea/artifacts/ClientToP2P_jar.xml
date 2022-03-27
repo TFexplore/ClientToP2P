@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ClientToP2P:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClientToP2P_jar</output-path>
+    <root id="archive" name="ClientToP2P.jar">
+      <element id="module-output" name="ClientToP2P" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../IdeaProjects/gson-2.8.5 (2).jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
